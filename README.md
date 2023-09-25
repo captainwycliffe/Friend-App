@@ -1,62 +1,24 @@
-# Friend App
+# README
 
-Welcome to **Friend App**, a web application for managing your list of friends. Whether you want to keep track of your friends' contact information, stay connected through social media, or simply organize your personal contacts, **Friend App** has got you covered.
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-## Key Features
+Things you may want to cover:
 
-- **User-Friendly Interface**: **Friend App** provides an intuitive and user-friendly interface, making it easy to add, edit, and view your friends' details.
+* Ruby version
 
-- **Contact Management**: Store important information about your friends, including their names, email addresses, phone numbers, and even their Twitter handles.
+* System dependencies
 
-- **Quick Access**: Easily access your friends' profiles with the "Show this friend" feature. 
+* Configuration
 
-- **Customization**: Tailor your friend list by adding, editing, or removing friends as needed.
+* Database creation
 
-- **Responsive Design**: **Friend App** is designed to work seamlessly on both desktop and mobile devices, so you can stay connected wherever you go.
+* Database initialization
 
-## Getting Started
+* How to run the test suite
 
-To get started with **Friend App**, follow these steps:
+* Services (job queues, cache servers, search engines, etc.)
 
-1. Clone the repository to your local machine:
+* Deployment instructions
 
-   ```bash
-   git clone https://github.com/captainwycliffe/Friend-App.git
-2. Install the necessary dependencies:
-
-   ```bash
-   bundle install
-3. Set up your database and run migrations:
-
-   ```bash
-   rails db:migrate
-4. Start the application:
-
-   ```bash
-   rails server
-5. Access the app in your web browser at http://localhost:3000.
-
-## Contributing
-
-Welcome to **Friend App**! We encourage and appreciate contributions from the community. If you have ideas for new features, bug fixes, or improvements, please feel free to get involved. Here's how you can contribute:
-
-- If you have an idea for a new feature, or if you've found a bug, please create an issue in our [Issue Tracker](link-to-issue-tracker) to discuss it.
-
-- To contribute code improvements or fixes, submit a pull request (PR) following these steps:
-  1. Fork the repository to your own GitHub account.
-  2. Create a new branch from the main branch for your changes.
-  3. Make your changes and commit them to your branch.
-  4. Open a PR with a clear description of your changes.
-  5. Our team will review your PR, provide feedback, and work with you to get it merged.
-
-Please refer to our [Contributing Guidelines](link-to-contributing-guidelines) for more detailed information on our contribution process and coding standards.
-
-## License
-
-**Friend App** is open-source software licensed under the GNU GENERAL PUBLIC LICENSE (GPL). This means you have the freedom to use, modify, and distribute the code in accordance with the terms of the GPL license. You can find the full details in the [LICENSE]([link-to-license](https://github.com/captainwycliffe/Friend-App/LICENSE)) file.
-
-Thank you for using **Friend App**! We hope it helps you stay connected with your friends.
-
-
-
-
+* ...

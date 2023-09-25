@@ -53,7 +53,7 @@ Please refer to our [Contributing Guidelines](link-to-contributing-guidelines) f
 
 ## License
 
-**Friend App** is open-source software licensed under the GNU GENERAL PUBLIC LICENSE (GPL). This means you have the freedom to use, modify, and distribute the code in accordance with the terms of the GPL license. You can find the full details in the [LICENSE]([link-to-license](https://github.com/captainwycliffe/Friend-App/blob/main/LICENSE)) file.
+**Friend App** is open-source software licensed under the GNU GENERAL PUBLIC LICENSE (GPL). This means you have the freedom to use, modify, and distribute the code in accordance with the terms of the GPL license. You can find the full details in the [LICENSE]([link-to-license](https://github.com/captainwycliffe/Friend-App/LICENSE)) file.
 
 Thank you for using **Friend App**! We hope it helps you stay connected with your friends.
 

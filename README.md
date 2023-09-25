@@ -34,5 +34,6 @@ To get started with **Friend App**, follow these steps:
 
    ```bash
    rails server
+5. Access the app in your web browser at http://localhost:3000.  
 
 

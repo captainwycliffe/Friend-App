@@ -1,4 +1,4 @@
-# Your Friend App Name
+# Friend App
 
 Welcome to **Friend App**, a web application for managing your list of friends. Whether you want to keep track of your friends' contact information, stay connected through social media, or simply organize your personal contacts, **Your Friend App Name** has got you covered.
 
@@ -16,14 +16,23 @@ Welcome to **Friend App**, a web application for managing your list of friends. 
 
 ## Getting Started
 
-To get started with **Your Friend App Name**, follow these steps:
+To get started with **Friend App**, follow these steps:
 
 1. Clone the repository to your local machine:
 
    ```bash
    git clone https://github.com/captainwycliffe/Friend-App.git
-2.Install the necessary dependencies:
+2. Install the necessary dependencies:
 
-  ```bash
+   ```bash
    bundle install
+3. Set up your database and run migrations:
+
+   ```bash
+   rails db:migrate
+4. Start the application:
+
+   ```bash
+   rails server
+
 

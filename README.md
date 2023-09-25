@@ -8,7 +8,7 @@ Welcome to **Friend App**, a web application for managing your list of friends. 
 
 - **Contact Management**: Store important information about your friends, including their names, email addresses, phone numbers, and even their Twitter handles.
 
-- **Quick Access**: Easily access your friends' profiles with the "Show this friend" feature.
+- **Quick Access**: Easily access your friends' profiles with the "Show this friend" feature. 
 
 - **Customization**: Tailor your friend list by adding, editing, or removing friends as needed.
 

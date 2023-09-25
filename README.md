@@ -38,15 +38,25 @@ To get started with **Friend App**, follow these steps:
 
 ## Contributing
 
-We welcome contributions from the community. If you have ideas for new features, bug fixes, or improvements, please create an issue or submit a pull request. Before contributing, please review our [Contributing Guidelines](CONTRIBUTING.md) for more information.
+Welcome to **Friend App**! We encourage and appreciate contributions from the community. If you have ideas for new features, bug fixes, or improvements, please feel free to get involved. Here's how you can contribute:
+
+- If you have an idea for a new feature, or if you've found a bug, please create an issue in our [Issue Tracker](link-to-issue-tracker) to discuss it.
+
+- To contribute code improvements or fixes, submit a pull request (PR) following these steps:
+  1. Fork the repository to your own GitHub account.
+  2. Create a new branch from the main branch for your changes.
+  3. Make your changes and commit them to your branch.
+  4. Open a PR with a clear description of your changes.
+  5. Our team will review your PR, provide feedback, and work with you to get it merged.
+
+Please refer to our [Contributing Guidelines](link-to-contributing-guidelines) for more detailed information on our contribution process and coding standards.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). By contributing to this project, you agree to abide by the terms and conditions of this license. You are free to use and modify the code as needed, in accordance with the MIT License. For more details, please refer to the [LICENSE](LICENSE) file.
+**Friend App** is open-source software licensed under the GNU GENERAL PUBLIC LICENSE (GPL). This means you have the freedom to use, modify, and distribute the code in accordance with the terms of the GPL license. You can find the full details in the [LICENSE](link-to-license) file.
 
----
+Thank you for using **Friend App**! We hope it helps you stay connected with your friends.
 
-**Thank you for using Your Friend App Name! We hope it helps you stay connected with your friends.**
 
 
 

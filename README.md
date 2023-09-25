@@ -34,6 +34,19 @@ To get started with **Friend App**, follow these steps:
 
    ```bash
    rails server
-5. Access the app in your web browser at http://localhost:3000.  
+5. Access the app in your web browser at http://localhost:3000.
+
+## Contributing
+
+We welcome contributions from the community. If you have ideas for new features, bug fixes, or improvements, please create an issue or submit a pull request. Before contributing, please review our [Contributing Guidelines](CONTRIBUTING.md) for more information.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE). By contributing to this project, you agree to abide by the terms and conditions of this license. You are free to use and modify the code as needed, in accordance with the MIT License. For more details, please refer to the [LICENSE](LICENSE) file.
+
+---
+
+**Thank you for using Your Friend App Name! We hope it helps you stay connected with your friends.**
+
 
 

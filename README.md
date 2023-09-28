@@ -22,8 +22,17 @@ To get started with **Friends App**, follow these steps:
 
    ```bash
    git clone https://github.com/yourusername/your-friend-app.git
-2.Install the necessary dependencies:
+2. Install the necessary dependencies:
 
    ```bash
-   bundle install
+    bundle install
+3. Set up your database and run migrations:
+
+   ```bash
+   rails db:migrate
+4. Start the application:
+
+   ```bash
+   rails server
+5. 
 

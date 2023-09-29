@@ -21,7 +21,7 @@ To get started with **Friends App**, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/your-friend-app.git
+   git clone https://github.com/captainwycliffe/Friend-App.git
 2. Install the necessary dependencies:
 
    ```bash
